@@ -348,7 +348,7 @@ section button:hover {
   width:380px;
   height:380px;
   margin:10px;
-  background-color:#99aeff;
+  background-color:#181B28;
   display:inline-block;
   background-size:cover;
   position:relative;
@@ -388,7 +388,6 @@ section button:hover {
 {
   font-weight:100;
   margin:20px 0 0 0;
-  font-style:italic;
    transform: translateX(200px);
 }
 .tile p
@@ -736,3 +735,4 @@ This is where the magic happens */
 .container {
   max-width: 940px;
 }
+
