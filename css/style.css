@@ -273,8 +273,8 @@ section button:hover {
 
 .graphic-design {
     width:100%; 
-    -moz-animation:graphic-design 10s ease-out;
-    -webkit-animation:graphic-design 10s ease-out;
+    -moz-animation:graphic-design 17s ease-out;
+    -webkit-animation:graphic-design 17s ease-out;
     background-color: #f674a4;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#f674a4), to(#e06995));
     background-image: -webkit-linear-gradient(top, #f674a4, #e06995);
@@ -286,8 +286,8 @@ section button:hover {
 
 .html-css {
     width:90%;
-    -moz-animation:html-css 10s ease-out;
-    -webkit-animation:html-css 10s ease-out;
+    -moz-animation:html-css 17s ease-out;
+    -webkit-animation:html-css 17s ease-out;
     background-color: #f0bb4b;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#f0bb4b), to(#d9aa44));
     background-image: -webkit-linear-gradient(top, #f0bb4b, #d9aa44);
@@ -299,8 +299,8 @@ section button:hover {
 
 .jquery {
     width:65%;
-    -moz-animation:jquery 10s ease-out;
-    -webkit-animation:jquery 10s ease-out;
+    -moz-animation:jquery 17s ease-out;
+    -webkit-animation:jquery 17s ease-out;
     background-color: #a1ce5b;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#a1ce5b), to(#91ba52));
     background-image: -webkit-linear-gradient(top, #a1ce5b, #91ba52);
@@ -312,8 +312,8 @@ section button:hover {
 
 .wordpress {
     width:80%;
-    -moz-animation:wordpress 10s ease-out;
-    -webkit-animation:wordpress 10s ease-out;
+    -moz-animation:wordpress 17s ease-out;
+    -webkit-animation:wordpress 17s ease-out;
     background-color: #66b3cc;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#66b3cc), to(#5da3ba));
     background-image: -webkit-linear-gradient(top, #66b3cc, #5da3ba);
